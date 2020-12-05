@@ -1,0 +1,130 @@
+#page-landing {
+    padding: 2rem;
+	width: 100vw;
+	height: 100vh;
+	background: linear-gradient(329.54deg, #148ddd3b 0%, #4f2158 100%);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#page-landing .content-wrapper {
+	position: relative;
+	width: 100%;
+	max-width: 1100px;
+	height: 100%;
+	max-height: 680px;
+	display: flex;
+	align-items: flex-start;
+	flex-direction: column;
+	justify-content: space-between;
+	
+    background: url('../../Assets/professorOnlineover.png') no-repeat 80% center;
+    background-size: 500px;
+}
+
+#page-landing .content-wrapper main {
+	max-width: 350px;
+	border-radius: 20px;
+	padding: 10px;
+}
+/* .main{
+	padding: 10px;
+} */
+
+#page-landing .content-wrapper main h1 {
+	font-size: 76px;
+	font-weight: 900;
+	line-height: 78px;
+	/* border-radius: 20px;
+	padding: 10px; */
+	
+}
+
+#page-landing .content-wrapper main p {
+	margin-top: 40px;
+	font-size: 24px;
+	line-height: 34px;
+}
+
+.content-wrapper .location {
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: flex;
+	flex-direction: column;
+	text-align: right;
+	
+}
+
+.content-wrapper .location strong {
+	font-weight: 800;
+}
+
+.content-wrapper .enter-app {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	width: 80px;
+	height: 80px;
+	background: #1a6a99;
+	border-radius: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: background-color 0.2s;
+}
+
+.content-wrapper .enter-app:hover {
+	background: #088e90;
+}
+.content-wrapper{
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.btn-1:hover{
+	padding: 10px;
+	cursor: pointer;
+	border-radius: 10px;
+	background:#ED9DCA;
+	transform: scale(1.1);
+	
+}
+.btn-2:hover{
+	padding: 10px;
+	cursor: pointer;
+	border-radius: 10px;
+	background:#4c4ecc;
+	transform: scale(1.1);
+}
+.btn-3:hover{
+	padding: 10px;
+	cursor: pointer;
+	border-radius: 10px;
+	background:#c21a79;
+	transform: scale(1.1);
+}
+.btn-4:hover{
+	padding: 10px;
+	cursor: pointer;
+	border-radius: 10px;
+	background:#5cbe1b;
+	transform: scale(1.1);
+}
+.btn-1{
+	background:  #d87111fb;
+    border-radius: 10px;
+}
+.btn-2{
+	background:  #96d8e0;
+    border-radius: 10px;
+}
+.btn-3{
+	background:  #e441bb;
+    border-radius: 10px;
+}
+.btn-4{
+	background:  #15cfa1;
+    border-radius: 10px;
+}

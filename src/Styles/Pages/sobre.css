@@ -1,0 +1,124 @@
+.body-sobre{
+    background: linear-gradient(329.54deg, #dafe64 0%, #ED9DCA 100%);
+}
+
+header {
+    background: url('../../Assets/onlineTeacher.jpg') center;
+    background-size: cover;
+    height: 328px;
+    width: 100%;
+  
+}
+header button{
+	border-radius: 20px;
+	padding: 10px;
+	color: #FFF;
+	margin-top: 10px;
+	
+	cursor: pointer;
+	outline: none;
+}
+
+header .header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+ 
+}
+
+header .header h1{
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 60px;
+    color: rgb(7, 92, 117);
+
+}
+header .header-btn{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 400px;
+    border-radius: 25px;
+}
+header .header-btn .btn-1{
+    background: #64DAFE;
+    border-radius: 25px;
+	
+}
+header .header-btn .btn-1:hover{
+	background:#ED9DCA;
+	transform: scale(1.1);
+	
+}
+header .header-btn .btn-2{
+	background:  #1840ad;
+    margin-left: 15px;
+    border-radius: 25px;
+}
+
+header .header-btn .btn-2:hover{
+	background:  #fe64d0;
+	transform: scale(1.1);
+	
+}
+
+header .header-btn .btn-3{
+	background:  #061849;
+    margin-left: 15px;
+    border-radius: 25px;
+}
+
+header .header-btn .btn-3:hover{
+	background:  #69fe64;
+	transform: scale(1.1);
+	
+}
+header .header-btn .btn-4{
+	background:  #5a7ad1;
+    margin-left: 15px;
+    border-radius: 25px;
+}
+
+header .header-btn .btn-4:hover{
+	background:  #95102d;
+	transform: scale(1.1);
+	
+}
+
+.sobre h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #0c3e5f;
+    font-weight: bold;
+}
+.sobre p{
+    width: 400px;
+    text-align: justify;
+    margin-top: 20px;
+    font-weight: 200;
+}
+.sobre ul{
+   
+    font-weight: 200;
+}
+
+.sobre .div-sobre{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    align-items: center;
+}
+.sobre .div-sobre ul{
+    margin-right: 70px;
+}
+
+footer{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+footer img{
+    padding: 5px;
+}
