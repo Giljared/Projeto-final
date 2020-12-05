@@ -12,7 +12,7 @@ const Filmes = () => {
     React.useEffect(()=>{
         const busca=filmes.filter(filme =>filme.nome.includes(value))
         setFilmesFiltrados(busca)
-    },[value, filmes])
+    },[value])
 
     const handleOnChance = (event) =>{
             setValue(event.target.value)

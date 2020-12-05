@@ -15,7 +15,7 @@ const Tutoriais = () => {
     const busca=tutoriais.filter(tutorial => tutorial.nome.includes(value))
 
     setTutoriaisFiltrados(busca)
-  },[value, tutoriais])
+  },[value])
 
   const handleOnChance = (event) => {
     setValue(event.target.value)
