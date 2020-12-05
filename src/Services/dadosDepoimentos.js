@@ -68,11 +68,20 @@ const depoimentos = [
     {
         id: 8,
         nome: "Fabiane Tramontin",
-        descricao: "Pedagoga (Rede Pública/Privada",
+        descricao: "Pedagoga Orientadora (Rede Pública/Privada",
         mensagem: "Temos que sair da zona de conforto desconstruir e construir novos conceitos sobre o ensino a distância ou remoto. O desacomodar causa muita incerteza e dúvidas para todos .Mas devemos estar abertos a novas aprendizagens. A Educação de modo geral tem que ter uma evolução maior quanto aos recursos disponíveis aos alunos.Sentimos que nos não estávamos preparados para uma mudança repentina.",
         foto: "https://scontent.fcxj9-1.fna.fbcdn.net/v/t1.0-9/51474357_2043123532477476_4242604210073370624_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=QyWsGVwq2UEAX-n0p2a&_nc_ht=scontent.fcxj9-1.fna&oh=92b0ce33a23180b57d112b7529d6f357&oe=5FEF5DF0",
         facebook: "https://www.facebook.com/fabiane.tramontin.56",
         instagram: "https://www.instagram.com/tramontinfabiane/"
+    },
+    {
+        id: 9,
+        nome: "Vilsiane Aparecida Leonardi",
+        descricao: "Pedagoga Analista (Rede Pública/Privada)",
+        mensagem: "Visão antes do 'novo normal': Me via na zona de conforto em algumas situações relacionadas a tecnologia, mas sempre busquei levar para sala de aula a reflexão e conexão da teoria e prática, com estudos de casos, dinâmicas, visitas técnicas, bate papo com profissionais. Já possuia: Comunicação, relacionamento interpessoal , proatividade, flexibilidade, liderança e negociação. Importante:Busque o autoconhecimento e autoconfiança. Acredite! Você é capaz. Mude e transforme vidas, principalmente a sua.",
+        foto: "https://scontent.fcxj9-1.fna.fbcdn.net/v/t1.0-9/92135039_2942650395803518_2860538026902159360_o.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_ohc=H2RadJGQn54AX8A22PD&_nc_ht=scontent.fcxj9-1.fna&oh=a3e4e485e76d0ed1b5aeb61e28a939e4&oe=5FEFA02F",
+        facebook: "https://www.facebook.com/vilsiane.leonardi.3",
+        instagram: ""
     }
 ]
 
