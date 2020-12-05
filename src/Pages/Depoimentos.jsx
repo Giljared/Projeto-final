@@ -39,7 +39,10 @@ const Depoimentos = () => {
               <p><strong><i>{depoimento.mensagem}</i></strong></p>
 
               <a href={depoimento.facebook} alt="clique" rel="noopener noreferrer" target="_blank">Facebook</a>
-              <p><a href={depoimento.instagram} alt="clique" rel="noopener noreferrer" target="_blank">Instagram</a></p>
+              {
+                depoimento.instagram && <p><a href={depoimento.instagram} alt="clique" rel="noopener noreferrer" target="_blank">Instagram</a></p>
+              }
+              
               <img src={depoimento.foto} alt="foto" />
             </div>
           );
