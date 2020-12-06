@@ -1,15 +1,41 @@
-import { FiArrowLeft } from 'react-icons/fi'
-import { FiArrowRight } from 'react-icons/fi'
+// import { FiArrowLeft } from 'react-icons/fi'
+// import { FiArrowRight } from 'react-icons/fi'
 import { Link } from 'react-router-dom'
 import '../Styles/Components/sidebar.css'
 
-const Sidebar = () =>{
-    
+const Sidebar = () => {
+
 
     return (
         <aside className="app-sidebar">
             <footer>
-            <Link to="/" >
+
+                <div className="header-btn">
+
+
+                    <Link to="/depoimentos" >
+                        <button className="btn-1">Professores</button>
+                    </Link>
+
+                    <Link to="/" >
+                        <button className="btn-2">Home</button>
+                    </Link>
+
+                    <Link to="/tutoriais">
+                        <button className="btn-3">Tutoriais e Ferramentas</button>
+                    </Link>
+
+                    <Link to="/filmes">
+                        <button className="btn-4">Filmes Educativos</button>
+                    </Link>
+
+                    <Link to="/sobre">
+                        <button className="btn-5">Sobre o Projeto</button>
+                    </Link>
+                </div>
+
+
+                {/* <Link to="/" >
                 <button type="button" >
                     <FiArrowLeft size={24} color="#FFF" />
                 </button>
@@ -20,7 +46,7 @@ const Sidebar = () =>{
                 <button type="button" >
                     <FiArrowRight size={24} color="#FFF" />
                 </button>
-            </Link>
+            </Link> */}
             </footer>
         </aside>
     )
@@ -61,5 +87,5 @@ export default Sidebar
 //             </footer>
 //         </aside>
 //     )
-    
+
 // }

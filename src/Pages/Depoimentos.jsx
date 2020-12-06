@@ -1,7 +1,7 @@
 import React from "react"
 // import { useState, useEffect } from "react";
 import depoimentos from "../Services/dadosDepoimentos";
-import "../Styles/Pages/filmes.css";
+import "../Styles/Pages/depoimentos.css";
 import Sidebar from "../Components/Sidebar";
 import BuscaFiltro from "../Components/BuscaFiltro"
 // import { Link } from "react-router-dom";
@@ -15,7 +15,7 @@ const Depoimentos = () => {
     const busca=depoimentos.filter(depoimento => depoimento.nome.includes(value))
 
     setDepoimentosFiltrados(busca)
-  },[value, depoimentos])
+  },[value])
 
   const handleOnChance = (event) => {
     setValue(event.target.value)
@@ -33,7 +33,7 @@ const Depoimentos = () => {
       <div id="container">
         {depoimentosFiltrados.map((depoimento) => {
           return (
-            <div className="card">
+            <div className="card-depoimentos">
               <h2>{depoimento.nome}</h2>
               <h3>{depoimento.descricao}</h3>
               <p><strong><i>{depoimento.mensagem}</i></strong></p>

@@ -1,7 +1,7 @@
 import React from "react"
 // import { useState, useEffect } from "react";
 import tutoriais from "../Services/dadosTutoriais";
-import "../Styles/Pages/filmes.css";
+import "../Styles/Pages/tutoriais.css";
 import Sidebar from "../Components/Sidebar";
 import BuscaFiltro from "../Components/BuscaFiltro";
 // import { Link } from "react-router-dom";
@@ -42,7 +42,7 @@ const Tutoriais = () => {
       <div id="container">
         {tutoriaisFiltrados.map((tutorial) => {
           return (
-            <div className="card">
+            <div className="card-tutoriais">
               <h3>{tutorial.nome}</h3>
               <p>Gênero:{tutorial.genero}</p>
               

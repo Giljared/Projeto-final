@@ -2,7 +2,7 @@ aside.app-sidebar {
     position: fixed;
     height: 100%;
     padding: 32px 24px;
-    background: linear-gradient(329.54deg, #052731 0%, #090f31 100%);
+    background: linear-gradient(329.54deg, #110635b6 0%, #06115596 100%);
   
     display: flex;
     flex-direction: column;
@@ -10,11 +10,13 @@ aside.app-sidebar {
     align-items: center;
   }
   
-  aside.app-sidebar img {
-    width: 48px;
+  aside.app-sidebar{
+    width: 140px;
+    text-align: center;
+    
   }
   
-  aside.app-sidebar footer a,
+  /* aside.app-sidebar footer a,
   aside.app-sidebar footer button {
     width: 48px;
     height: 48px;
@@ -31,9 +33,70 @@ aside.app-sidebar {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+  } */
   
   aside.app-sidebar footer a:hover,
   aside.app-sidebar footer button:hover {
     background: #119ead;
   }
+
+.header-btn .btn-1{
+    padding: 10px;
+    background: #fe9d64;
+    border-radius: 25px;
+	
+}
+.header-btn .btn-1:hover{
+	background:#ED9DCA;
+	transform: scale(1.1);
+	
+}
+.header-btn .btn-2{
+  padding: 10px;
+	background:  #ce5fb2;
+    /* margin-left: 15px; */
+    border-radius: 25px;
+}
+
+.header-btn .btn-2:hover{
+	background:  #b31583;
+	transform: scale(1.1);
+	
+}
+
+.header-btn .btn-3{
+  padding: 10px;
+	background:  #c4cc4d;
+    /* margin-left: 15px; */
+    border-radius: 25px;
+}
+
+.header-btn .btn-3:hover{
+	background:  #da64fe;
+	transform: scale(1.1);
+	
+}
+.header-btn .btn-4{
+  padding: 10px;
+	background:  #5ac7d1;
+    /* margin-left: 15px; */
+    border-radius: 25px;
+}
+
+.header-btn .btn-4:hover{
+	background:  #d68193;
+	transform: scale(1.1);
+	
+}
+
+.header-btn .btn-5{
+  padding: 10px;
+	background:  #3dcea3;
+    /* margin-left: 15px; */
+    border-radius: 25px;
+}
+.header-btn .btn-5:hover{
+	background:  #df7f94;
+	transform: scale(1.1);
+	
+}

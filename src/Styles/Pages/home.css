@@ -47,6 +47,11 @@
 	line-height: 34px;
 }
 
+/* .content-wrapper{
+	display: flex;
+	justify-content: space-between;
+} */
+
 .content-wrapper .location {
 	position: absolute;
 	right: 0;
@@ -113,18 +118,22 @@
 	transform: scale(1.1);
 }
 .btn-1{
+	padding: 10px;
 	background:  #d87111fb;
     border-radius: 10px;
 }
 .btn-2{
+	padding: 10px;
 	background:  #96d8e0;
     border-radius: 10px;
 }
 .btn-3{
+	padding: 10px;
 	background:  #e441bb;
     border-radius: 10px;
 }
 .btn-4{
+	padding: 10px;
 	background:  #15cfa1;
     border-radius: 10px;
 }

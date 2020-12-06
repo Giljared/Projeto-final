@@ -24,7 +24,7 @@ const Filmes = () => {
             <BuscaFiltro handleOnChance={handleOnChance} />
             <div id="container">
                 {filmesFiltrados.map(filme => {
-                    return <div className="card" key={filme.id}>
+                    return <div className="card-filmes" key={filme.id}>
                         <h3>Título: {filme.nome}</h3>
                         <p>Gênero: {filme.genero}</p>
                         <p>Descrição: {filme.descricao}</p>

@@ -27,10 +27,11 @@ header .header{
 }
 
 header .header h1{
-    margin-left: 400px;
+    margin-left: 100px;
     margin-top: 50px;
     font-size: 60px;
     color: rgb(7, 92, 117);
+    display: flex;
 
 }
 header .header-btn{
@@ -51,8 +52,8 @@ header .header-btn .btn-1:hover{
 	
 }
 header .header-btn .btn-2{
-	background:  #1840ad;
-    margin-left: 15px;
+	background:  #bfc5d8;
+    /* margin-left: 15px; */
     border-radius: 25px;
 }
 
@@ -63,24 +64,36 @@ header .header-btn .btn-2:hover{
 }
 
 header .header-btn .btn-3{
-	background:  #061849;
-    margin-left: 15px;
+	background:  #1a4ad1;
+    /* margin-left: 15px; */
     border-radius: 25px;
 }
 
 header .header-btn .btn-3:hover{
-	background:  #69fe64;
+	background:  #9cdd51;
 	transform: scale(1.1);
 	
 }
 header .header-btn .btn-4{
-	background:  #5a7ad1;
-    margin-left: 15px;
+	background:  #5ad1ad;
+    /* margin-left: 15px; */
     border-radius: 25px;
 }
 
 header .header-btn .btn-4:hover{
-	background:  #95102d;
+	background:  #e9758e;
+	transform: scale(1.1);
+	
+}
+
+header .header-btn .btn-5{
+	background:  #aebce2;
+    /* margin-left: 15px; */
+    border-radius: 25px;
+}
+
+header .header-btn .btn-5:hover{
+	background:  #d35570;
 	transform: scale(1.1);
 	
 }
@@ -105,10 +118,12 @@ header .header-btn .btn-4:hover{
 }
 
 .sobre .div-sobre{
+    margin-left: 150px;
     display: flex;
     justify-content: space-around;
     margin-top: 50px;
     align-items: center;
+    flex-wrap: wrap;
 }
 .sobre .div-sobre ul{
     margin-right: 70px;
@@ -121,4 +136,18 @@ footer{
 }
 footer img{
     padding: 5px;
+}
+
+@media screen and (
+    max-width: 800px
+){
+    .sobre .div-sobre{
+        margin-right: 20px;
+        display: flex;
+    }
+    header .header h1{
+        font-size: 30px;
+        
+    }
+    
 }

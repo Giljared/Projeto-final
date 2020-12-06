@@ -6,7 +6,7 @@ const tutoriais = [
         nome: "Como usar o Google Classroom",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnjhZyvKSSFI3ZZVC3EWdO7GYy1uvrM1YrcrwzM4=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Existem algumas coisas que você precisa saber antes de começar a usar o #Google #Classroom. O primeiro ponto é que existe uma integração muito forte entre o Sala de Aula e dois outros serviços do Google. Por exemplo, tudo que você ou os alunos precisam trocar em termos de arquivo ficará guardado no Google Drive. Além disso, as datas de entrega vão automaticamente para o Google Agenda. Portanto, antes que você pergunte, sim, tanto os alunos quanto o #professor precisam ter contas do Google. Outro ponto importante é que o Sala de Aula (Classroom) pode ser usado para projetos pessoais, mas se seu objetivo for usar para administrar as aulas de uma escola ou universidade, será preciso aderir ao G Suite for Education, que é gratuito.",
+        descricao: "Existe uma integração muito forte entre o Sala de Aula e dois outros serviços do Google. As datas de entrega vão automaticamente para o Google Agenda. Tanto os alunos quanto o professor precisam ter contas do Google. Importante é que o Sala de Aula (Classroom) pode ser usado para projetos pessoais. Se seu objetivo for usar para administrar as aulas de uma escola ou universidade, será preciso aderir ao G Suite for Education, que é gratuito.",
         link: "https://www.youtube.com/watch?v=7kCsZ-nOknk&ab_channel=UCqW87gLGoFKlol67uWv2GGA" 
     },
     {
@@ -14,7 +14,7 @@ const tutoriais = [
         nome: "Como USAR o GOOGLE CLASSROOM no CELULAR ANDROID e IOS",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnhwN1Bez-UBdIxd4d_UW0bfQOLtjyeJALH1iktbMA=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Neste vídeo vou mostrar como alunos e professores podem manter suas atividades mesmo fora das escolas, com este recurso suas aulas não param e podem ser feitas diretamente do seu celular. Link do App: https://bit.ly/2vZPeUB.",
+        descricao: "Neste vídeo vou mostrar como alunos e professores podem manter suas atividades mesmo fora das escolas, com este recurso suas aulas não param e podem ser feitas diretamente do seu celular. Link do App na descrição do vídeo lá no canal.",
         link: "https://www.youtube.com/watch?v=HQ-qouxENaU&ab_channel=EmersonCarvalho-PontoCanal" 
     },
     {
@@ -22,7 +22,7 @@ const tutoriais = [
         nome: "Como utilizar o Whatsapp para dar aulas",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnhkHIiygIJgYSNdomE82NIrQfxTUZFTrpiox8NoMw=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Whatsapp para dar aulas até cinquenta alunos. Whatsapp conferência com até cinquenta pessoas.",
+        descricao: "Whatsapp para dar aulas até cinquenta alunos. Whatsapp conferência com até cinquenta pessoas. Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=BkmyMmc_fos&ab_channel=CentrodeInclus%C3%A3oDigitalDigital"
     },
     {
@@ -30,7 +30,7 @@ const tutoriais = [
         nome: "Como Enviar Video Aula para seus Alunos com Whatsapp Web",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwniWVfU_8H_H4rc3imUlqUEjbUAOB8sY-ovpiWFI=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Veja o Passo a passo de como enviar suas vídeo aulas para seus alunos através do Whatsapp Web. Uma maneira simples, fácil e prática de mandar suas aulas online para sua turma.",
+        descricao: "Veja o Passo a passo de como enviar suas vídeo aulas para seus alunos através do Whatsapp Web. Uma maneira simples, fácil e prática de mandar suas aulas online para sua turma. Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=M9wJEFMMMvg&ab_channel=Nespol"
     },
     {
@@ -46,7 +46,7 @@ const tutoriais = [
         nome: "Como usar o Powerpoint para Fazer uma Vídeo Aula Animada",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwniWVfU_8H_H4rc3imUlqUEjbUAOB8sY-ovpiWFI=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Como usar o Powerpoint para Fazer Aula Animada Simples e Transformar em Vídeo para você que é professor, instrutor ou precisa dar aulas online. O Powerpoint é uma ótima ferramenta para fazer apresentações em slide e transformar em Video Aulas com recursos de Animação. Simples e fácil de mexer. Veja também como usar o gravador de tela para transformar seu Slide do Powerpoint em um Vídeo e enviar para onde quiser.",
+        descricao: "O Powerpoint é uma ótima ferramenta para fazer apresentações em slide e transformar em Video Aulas com recursos de Animação. Simples e fácil de mexer. Veja também como usar o gravador de tela para transformar seu Slide do Powerpoint em um Vídeo e enviar para onde quiser.",
         link: "https://www.youtube.com/watch?v=JCC3YkugDcQ&t=1389s&ab_channel=Nespol" 
     },
     {
@@ -54,7 +54,7 @@ const tutoriais = [
         nome: "Crie Animação e Efeitos 3D no PowerPoint",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnidDfxrkTcm2oiT7X1Xc8UACqgssYRAycQTs8h6oA=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Faça de forma simples e rápida sua animação e efeitos 3D no PowerPoint 2016. São recursos exclusivos que tornam seu trabalho ainda melhor.",
+        descricao: "Faça de forma simples e rápida sua animação e efeitos 3D no PowerPoint 2016. São recursos exclusivos que tornam seu trabalho ainda melhor. Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=lnqt9UMVljY&ab_channel=Corp360Treinamentos" 
     },
     {
@@ -70,7 +70,7 @@ const tutoriais = [
         nome: "Como utilizar o Google Meet pelo Google Classroom",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwniHkmw33W7Zf1f92nWmgYjV458yvFMvh9-f46IY8g=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Está on-line no Google Classroom e quer fazer uma videoconferência com os alunos? Aprenda a usar o Google Meet diretamente por dentro do Google Sala de Aula (Classroom).",
+        descricao: "Está on-line no Google Classroom e quer fazer uma videoconferência com os alunos? Aprenda a usar o Google Meet diretamente por dentro do Google Sala de Aula (Classroom). Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=1IKpU0maank&ab_channel=GetEdu"
     },
     {
@@ -94,7 +94,7 @@ const tutoriais = [
         nome: "Como usar o Power Point e o Google Apresentações no Google Meet e ao mesmo tempo ver o chat, etc",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwng7ivLr5hSjes94vwoMFk0x94fj4StFpdOHKuFfOEs=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Como usar o Power Point e o Google Apresentações no Google Meet e ao mesmo tempo ver o chat, etc. é mais um vídeo da série 'Como utilizar o Google Meet no seu dia a dia'. O Google Meet  é uma ferramenta online de videoconferência útil para se fazer reuniões online, ministrar aulas remotas (à distância/EaD), entre outros. Nessas ferramentas, é possível agendar reuniões, compartilhar a tela do apresentador com os demais participantes, convidar outras pessoas para participar, gravar a apresentação/aula, etc. Neste vídeo, eu mostro como fazer uma apresentação utilizando tanto o Power Point quanto o Google Apresentação no Google Meet, durante, por exemplo, uma aula remota, reunião, etc. e ao mesmo tempo conseguir visualizar tanto as imagens (fotos/vídeos) dos participantes quanto as informações do chat. No vídeo, ensino como converter uma apresentação do Power Point em uma apresentação do Google Apresentações e os benefícios dessa conversão. Por último, ensino como  compartilhar uma apresentação convertida do Power Point em Google Apresentações no Google Meet",
+        descricao: "Neste vídeo, mostro como fazer uma apresentação utilizando tanto o Power Point quanto o Google Apresentação no Google Meet, durante, por exemplo, uma aula remota, reunião. Conseguir visualizar tanto as imagens (fotos/vídeos) dos participantes quanto as informações do chat. No vídeo, ensino como converter uma apresentação do Power Point em uma apresentação do Google Apresentações e os benefícios dessa conversão. Compartilhar uma apresentação convertida do Power Point em Google Apresentações no Google Meet",
         link: "https://www.youtube.com/watch?v=u1Eq2ndy4jk&ab_channel=WiltonFilho"
     },
     {
@@ -102,7 +102,7 @@ const tutoriais = [
         nome: "Como apresentar um slide no Google Meet",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwniu7olXSuk2u-A2K6rabMLqrkYf9yphtWV8YPb4sw=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Olá pessoal! Neste vídeo ensino como inserir uma apresentação de slides (ou qualquer outra coisa!) durante uma vídeo-conferência, utilizando o Google Mett!Qualquer dúvida, podem mandar msg!",
+        descricao: "Olá pessoal! Neste vídeo ensino como inserir uma apresentação de slides (ou qualquer outra coisa!) durante uma vídeo-conferência, utilizando o Google Mett! Qualquer dúvida, podem mandar em comentários no canal!",
         link: "https://www.youtube.com/watch?v=t6605T0HTc4&ab_channel=ProfRaphaelSpessoto"
     },
     {
@@ -110,7 +110,7 @@ const tutoriais = [
         nome: "Como usar o Zoom - PASSO A PASSO - Tutorial - Para fazer reuniões, aulas e webinários",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwngaJI0slXVPRDdFzahBSyv3AZhXksNk-WRM1Rs8=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Como usar Zoom. Neste vídeo vou mostrar como usar o aplicativo zoom.us, o aplicativo de reuniões online que permite videochamadas e videoconferência com até 100 pessoas e aqui vou trazer o passo a passo de todos os recursos dessa plataforma, desde a criação da conta, até recursos de reunião como fundo de vídeo, compartilhamento de tela, quadro branco, espelhamento de tela do iPhone/iPad. Lembrando que esse não é um vídeo patrocinado, e aqui deixo a minha visão como usuário final, assim como vocês.",
+        descricao: "Neste vídeo vou mostrar como usar o aplicativo zoom.us, o aplicativo de reuniões online que permite videochamadas e videoconferência com até 100 pessoas e aqui vou trazer o passo a passo de todos os recursos dessa plataforma, desde a criação da conta, até recursos de reunião como fundo de vídeo, compartilhamento de tela, quadro branco, espelhamento de tela do iPhone/iPad.",
         link: "https://www.youtube.com/watch?v=gabMtNEZrMc&ab_channel=EmersonGomes"
     },
     {
@@ -118,7 +118,7 @@ const tutoriais = [
         nome: "Como Usar o Zoom para Fazer Reuniões, Aulas e Webinários",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnips6NCYAuA4GoiPb_BgDyRsOiPNkxPTRfflgaaoNc=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Como Usar o Zoom para Fazer Reuniões, Aulas e Webinários. Link para Download do Zoom Cloud Meeting - https://zoom.us/download#client_4meeting - Versão Atualizada - https://youtu.be/8SNq3M2-41E",
+        descricao: "Como Usar o Zoom para Fazer Reuniões, Aulas e Webinários. Link para Download do Zoom Cloud Meeting  na descrição do vídeo do canal e a  Versão Atualizada também. Passa lá e confere depois de asistir ao vídeo.",
         link: "https://www.youtube.com/watch?v=4B9mASZi_8o&ab_channel=DavidCarvalho"
     },
     {
@@ -126,7 +126,7 @@ const tutoriais = [
         nome: "Como instalar e utilizar o aplicativo ZOOM Meeting em Reuniões, Aulas e Webinários",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnj7-Qmijcb61yOWW4F7nrPlKvVxVn6f_g7G2XjySw=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Como instalar e utilizar o ZOOM Meeting em Reuniões, Aulas e Webinários. Veja como usar o Zoom para fazer vídeo conferências com pessoas em qualquer lugar do mundo. E se você quiser, também é possível dar aulas de dança, por exemplo, compartilhando o a saída de áudio do computador. Nem sempre é preciso usar o vídeo, muitas reuniões eu faço somente com o áudio. Como se fosse uma ligação mas com a vantagem de compartilhar a tela. Nesse tutorial você vai ver como usar as ferramentas disponíveis no Zoom para gerenciar o áudio, o vídeo e o compartilhamento de tela. E ainda vamos ver como agendar uma reunião, inclusive no formato recorrente. É bem simples, são 4 passos: Passo 1. Instale e abra o aplicativo Zoom para celular. Passo 2. Você receberá um e-mail para verificar a sua conta. Passo 3. Voltando ao app do Zoom, faça login na sua conta. Passo 4. Comece a usar, como anfitrião para convidar pessoas ou como convidado para participar",
+        descricao: "Veja como usar o Zoom para fazer vídeo conferências com pessoas em qualquer lugar do mundo. Compartilhar a saída de áudio do computador. 4 passos: Passo 1. Instale e abra o aplicativo Zoom para celular. Passo 2. Você receberá um e-mail para verificar a sua conta. Passo 3. Voltando ao app do Zoom, faça login na sua conta. Passo 4. Use como anfitrião para convidar pessoas ou como convidado.",
         link: "https://www.youtube.com/watch?v=7VyP7t3Inrg&ab_channel=GlauberC%C3%A9sar"
     },
     {
@@ -158,7 +158,7 @@ const tutoriais = [
         nome: "10 Truques CRIATIVOS e Secretos do CANVA",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnhbnoO3l22W5xj0VlpAYO4wyY2X7mG9D22l6IDN=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Neste vídeo nós te ensinamos 10 TRUQUES CRIATIVOS para você usar dentro do CANVA na hora de criar os seus conteúdos.",
+        descricao: "Neste vídeo nós te ensinamos 10 TRUQUES CRIATIVOS para você usar dentro do CANVA na hora de criar os seus conteúdos. Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=msK2I7drNlc&ab_channel=EuAprendiNaInternet"
     },
     {
@@ -166,7 +166,7 @@ const tutoriais = [
         nome: "Dinâmicas que funcionam nas aulas online",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnj2rsS64Tg4zLatJ6RxbXuQXfW-VL4gll3ozRu_dg=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Nesse vídeo eu falo sobre algumas dinâmicas que uso nas minhas aulas online e que funcionam muito bem. Deixei disponível o PDF que usei nessa aula, assim voce pode baixa-lo e usa-lo nas suas aulas. É só praticar.",
+        descricao: "Nesse vídeo eu falo sobre algumas dinâmicas que uso nas minhas aulas online e que funcionam muito bem. Deixei disponível o PDF que usei nessa aula, assim voce pode baixa-lo e usa-lo nas suas aulas. É só praticar. Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=NuJemITXf38&ab_channel=SmashTeacher"
     },
     {
@@ -174,7 +174,7 @@ const tutoriais = [
         nome: "Tutorial - Criando provas com o Google Forms",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwngTMHS275jbJWktEctjifeonQlYiQVtNQM8OUYVB5k=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Eu sou Profª de inglês há 20 anos e trabalho com tecnologia educacional. Neste vídeo você vai usar a ferramenta para criar provas com correção automática no o Google Forms.",
+        descricao: "Eu sou Profª de inglês há 20 anos e trabalho com tecnologia educacional. Neste vídeo você vai usar a ferramenta para criar provas com correção automática no o Google Forms. Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=7sa1mLNKAGk&ab_channel=i9prof"
     },
     {
@@ -222,7 +222,7 @@ const tutoriais = [
         nome: "COMO GRAVAR VIDEOAULA COM O GOOGLE MEET - PASSO A PASSO",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnjZZ2X7mYJX53HPw-WV-dlk3hyOJkWsbpUbTWz0_A=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Neste vídeo você vai aprenda a usar o GoogleMeet para gravar videoaulas sem precisar instalar nenhum programa no seu computador.",
+        descricao: "Neste vídeo você vai aprenda a usar o GoogleMeet para gravar videoaulas sem precisar instalar nenhum programa no seu computador. Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=7vhswbnljmw&ab_channel=OndeeuClico"
     },
     {
@@ -238,7 +238,7 @@ const tutoriais = [
         nome: "Dicas de como gravar aulas para seus alunos",
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnjvZoKFAPjNn7-6jDRln3pz84HxW5t7aB2gKU3VtQ=s176-c-k-c0x00ffffff-no-rj",
-        descricao: "Eu recebo muitas mensagens de professores pedindo ajuda para gravar aulas para seus alunos, pensando nisso eu criei uma série de vídeos com dicas para gravar suas aulas, seja para o infantil ou para o fundamental.",
+        descricao: "Eu recebo muitas mensagens de professores pedindo ajuda para gravar aulas para seus alunos, pensando nisso eu criei uma série de vídeos com dicas para gravar suas aulas, seja para o infantil ou para o fundamental. Assista e confira o canal. Você vai gostar!",
         link: "https://www.youtube.com/watch?v=VCw6v7DbHvQ&ab_channel=ProfessoraCoruja"
     }   
 

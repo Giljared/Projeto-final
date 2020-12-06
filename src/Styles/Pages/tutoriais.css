@@ -19,34 +19,38 @@ input{
     flex-wrap: wrap;
 }
 
-.card{
-    width: 40px;
-    margin: 30px;
-    padding: 20px;
-    border: 1px solid #272424;
-    border-radius: 7px;
-    box-shadow: 2px 2px 4px rgba(0,0,0,0.15);
-    /* margin-left: 500px; */
-}
 
-.card h3{
+.card-tutoriais{
+    width: 300px;
+    margin: 30px 30px 30px 120px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid #0808a1;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.15);
+    align-items: center;
+    text-align: center;
+}
+.card-tutoriais h3{
     color: #ba33d4;
 }
 
-.card p{
+.card-tutoriais p{
     color: #4f2158;
     font-weight: 100;
 }
 
-.card img{
-    border-radius: 7px 7px 0 0;
+.card-tutoriais img{
+    border-radius: 20px;
     margin-bottom: 20px;
-    max-width: 300px;
-    height: 400px;
+    max-width: 200px;
+    max-height: 200px;
 }
 
-.img{
+/* .img{
     
     max-width: 300px;
     height: 400px;
-}
+    border-radius: 50%;
+} */
