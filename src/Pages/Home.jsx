@@ -32,39 +32,3 @@ const Home = () => {
 }
 
 export default Home
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// import React from 'react'
-// import Templete from '../Templetes/Templete.jsx'
-
-// const Contato = () => {
-
-//     return (
-
-//         <Templete>
-//             <h3>CONTATO - Redes Sociais</h3>
-//             <p><a href="https://github.com/Giljared" alt="github"></a></p>
-//             <p><a href="https://www.linkedin.com/in/gilvanete-silva/" alt="linkedin"></a></p>
-//         </Templete>
-//     )
-// }
-
-// export default Contato

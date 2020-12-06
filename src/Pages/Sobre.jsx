@@ -25,10 +25,8 @@ const Home = () => {
 
                         <div className="div-sobre">
 
-
                             <p><h2>Propósito</h2>
                         Exposição de conhecimentos, ferramentas e habilidades/Skills requeridas dos Professores que migraram do Ensino Presencial para o Ensino On-line – tanto em Redes Públicas como em Redes Privadas. Neste espaço, você irá acessar uma coletânea de Depoimentos de Professores e Tutoriais com Ferramentas que exemplificam os vários cenários nos desafios de interagir  com Tecnologia e desenvolver um processo de aprendizado humanizado. Está disponível, também, um vasto espaço de indicações de Filmes Educativos que emocionam a vida de muitos de nós. Vale a pena conferir. E ainda, um outro vasto arcenal de ferramentas que oferecem facilidades para intensificar o ensino em espaços Educacionais que já possuem o Ensino Híbrido e para os espaços não-híbridos. Sendo que nesses, foram implantadas 'de repente' a conexão e interatividade de uso das ferramentas. Ao Perceber as barreiras e resistências ao NOVO NORMAL, os profissionais mergulham em um arrojado contato com o Ensino On-line(remoto) no ano de 2020. E o que mais é possível? Aproveite este espaço!</p>
-
 
                             <div>
                                 <ul>

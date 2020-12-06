@@ -23,7 +23,6 @@ header .header{
     display: flex;
     justify-content: center;
     text-align: center;
- 
 }
 
 header .header h1{
@@ -32,8 +31,8 @@ header .header h1{
     font-size: 60px;
     color: rgb(7, 92, 117);
     display: flex;
-
 }
+
 header .header-btn{
     display: flex;
     justify-content: center;
@@ -49,53 +48,45 @@ header .header-btn .btn-1{
 header .header-btn .btn-1:hover{
 	background:#ED9DCA;
 	transform: scale(1.1);
-	
 }
+
 header .header-btn .btn-2{
 	background:  #bfc5d8;
-    /* margin-left: 15px; */
     border-radius: 25px;
 }
 
 header .header-btn .btn-2:hover{
 	background:  #fe64d0;
 	transform: scale(1.1);
-	
 }
 
 header .header-btn .btn-3{
 	background:  #1a4ad1;
-    /* margin-left: 15px; */
     border-radius: 25px;
 }
 
 header .header-btn .btn-3:hover{
 	background:  #9cdd51;
 	transform: scale(1.1);
-	
 }
 header .header-btn .btn-4{
 	background:  #5ad1ad;
-    /* margin-left: 15px; */
     border-radius: 25px;
 }
 
 header .header-btn .btn-4:hover{
 	background:  #e9758e;
 	transform: scale(1.1);
-	
 }
 
 header .header-btn .btn-5{
 	background:  #aebce2;
-    /* margin-left: 15px; */
     border-radius: 25px;
 }
 
 header .header-btn .btn-5:hover{
 	background:  #d35570;
 	transform: scale(1.1);
-	
 }
 
 .sobre h2{
@@ -113,7 +104,6 @@ header .header-btn .btn-5:hover{
     font-weight: 200;
 }
 .sobre ul{
-   
     font-weight: 200;
 }
 
