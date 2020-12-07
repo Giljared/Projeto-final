@@ -105,6 +105,7 @@ header .header-btn .btn-5:hover{
 }
 .sobre ul{
     font-weight: 200;
+    text-decoration: none;
 }
 
 .sobre .div-sobre{
@@ -115,8 +116,9 @@ header .header-btn .btn-5:hover{
     align-items: center;
     flex-wrap: wrap;
 }
-.sobre .div-sobre ul{
+.sobre .div-sobre ul li{
     margin-right: 70px;
+    /* text-decoration: none; */
 }
 
 footer{
