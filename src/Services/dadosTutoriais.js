@@ -7,7 +7,7 @@ const tutoriais = [
         genero: "Educação",
         img: "https://yt3.ggpht.com/ytc/AAUvwnjhZyvKSSFI3ZZVC3EWdO7GYy1uvrM1YrcrwzM4=s176-c-k-c0x00ffffff-no-rj",
         descricao: "Existe uma integração muito forte entre o Sala de Aula e dois outros serviços do Google. As datas de entrega vão automaticamente para o Google Agenda. Tanto os alunos quanto o professor precisam ter contas do Google. Importante é que o Sala de Aula (Classroom) pode ser usado para projetos pessoais. Se seu objetivo for usar para administrar as aulas de uma escola ou universidade, será preciso aderir ao G Suite for Education, que é gratuito.",
-        link: "https://www.youtube.com/watch?v=7kCsZ-nOknk&ab_channel=UCqW87gLGoFKlol67uWv2GGA" 
+        link: "https://www.youtube.com/watch?v=7kCsZ-nOknk&ab_channel=UCqW87gLGoFKlol67uWv2GGA",
     },
     {
         id: 2,

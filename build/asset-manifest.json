@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a7827f3.chunk.css",
+    "main.js": "/static/js/main.48cde568.chunk.js",
+    "main.js.map": "/static/js/main.48cde568.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cbcd7e40.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cbcd7e40.js.map",
+    "static/js/2.e7e7709a.chunk.js": "/static/js/2.e7e7709a.chunk.js",
+    "static/js/2.e7e7709a.chunk.js.map": "/static/js/2.e7e7709a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1a7827f3.chunk.css.map": "/static/css/main.1a7827f3.chunk.css.map",
+    "static/js/2.e7e7709a.chunk.js.LICENSE.txt": "/static/js/2.e7e7709a.chunk.js.LICENSE.txt",
+    "static/media/sobre.css": "/static/media/onlineTeacher.fdbdda01.jpg",
+    "static/media/home.css": "/static/media/professorOnlineover.c8fcde0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbcd7e40.js",
+    "static/js/2.e7e7709a.chunk.js",
+    "static/css/main.1a7827f3.chunk.css",
+    "static/js/main.48cde568.chunk.js"
+  ]
+}

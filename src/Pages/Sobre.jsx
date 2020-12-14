@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/iframe-has-title */
 import { Link } from 'react-router-dom'
 import '../Styles/Pages/sobre.css'
 import Sidebar from "../Components/Sidebar";
@@ -11,7 +12,7 @@ const Home = () => {
             <header>
 
                 <div className="header">
-                    <h1> Professor(a) On-line!</h1>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/py1-F3SITOk" frameborder="0" allow="accelerometer autoplay clipboard-write encrypted-media gyroscope picture-in-picture" allowfullscreen></iframe>
 
                 </div>
 
@@ -44,6 +45,8 @@ const Home = () => {
                                 </ul>
 
                             </div>
+                            
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/f-NF0VXrHiU" frameborder="0" allow="accelerometer autoplay clipboard-write encrypted-media gyroscope picture-in-picture" allowfullscreen></iframe>
 
                             <div>
                                 <ul>
@@ -58,6 +61,7 @@ const Home = () => {
                                     <Link to={{ pathname: "https://www.youtube.com/watch?v=izpCTPduvvE&ab_channel=UniversidadeAndarilho" }} target="_blank"><li>MINDSET de crescimento</li></Link>
                                 </ul>
 
+                                
                             </div>
 
                         </div>
